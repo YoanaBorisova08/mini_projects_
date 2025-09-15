@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guess The Letter</title>
+    <link href="css/styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <main>
+      <section class="player player--0">
+        <h1 class="player--name" id="player-0-name">PLAYER 1</h1>
+        <input
+          type="text"
+          class="guess guess--0"
+          maxlength="1"
+          placeholder="a"
+        />
+        <button class="btn btn--check--0">CHECK</button>
+      </section>
+      <section class="player player--1">
+        <h1 class="player--name" id="player-1-name">PLAYER 2</h1>
+        <input
+          type="text"
+          class="guess guess--1"
+          maxlength="1"
+          placeholder="a"
+        />
+        <button class="btn btn--check--1">CHECK</button>
+      </section>
+      <div class="hidden-gen-letter">?</div>
+      <div id="wrong-letters">Wrong letters:</div>
+      <button class="btn btn--agn">New game</button>
+    </main>
+    <script src="js/main.js"></script>
+  </body>
+</html>
