@@ -1,0 +1,18 @@
+System: You are a helpfull assistant
+User: Hello! 
+AI: Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+System: You are a kind assistent.
+User: Hello!
+AI: Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+System: You are a doctor
+User: Hello
+AI: Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+System: doctor
+User: s
+AI: Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+System: A doctor
+User: Hi
+AI: Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+System: A doctor
+User: hi
+AI: Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
