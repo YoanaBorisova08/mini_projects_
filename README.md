@@ -2,7 +2,7 @@
 
 A couple of mini projects that I have created over the years, implementing my knowlege in **JS, CSS and HTML**.
 
-# Bankist Site 💰
+# [Bankist Site](https://github.com/YoanaBorisova08/mini_projects_/tree/main/Advanced_site_bankist) 💰
 
 A modern and minimal **banking landing page** project inspired by real-world fintech websites.  
 The goal of this project is to practice **JavaScript interactivity, responsive layouts, and clean UI/UX** design.  
@@ -14,7 +14,7 @@ This is a part of what the site looks like. Open the file to see more...
 <img  width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5e72db01-6b1e-4371-9fa9-d024cfee86e6" />
 
 
-# Donnut shop 🍩
+# [Donnut shop](https://github.com/YoanaBorisova08/mini_projects_/tree/main/Donnut_shop_site) 🍩
 
 A fun and modern **demo website for a fictional donut shop**.  
 This project showcases **web design**, while giving visitors a tasty online experience.  
@@ -23,7 +23,7 @@ This project showcases **web design**, while giving visitors a tasty online expe
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4337c58c-2c66-4134-8a0b-0b1f4e4bf177" />
 
 
-# Remake of the GitLab homepage 🦊
+# [Remake of the GitLab homepage](https://github.com/YoanaBorisova08/mini_projects_/tree/main/Gitlab_Remake) 🦊
 
 This project is a remake of the GitLab homepage built with modern web tools and clean design practices.  
 The goal is to sharpen frontend skills while recreating a real-world landing page.
@@ -31,7 +31,7 @@ The goal is to sharpen frontend skills while recreating a real-world landing pag
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2d25b480-0e52-46c0-9ca2-fe7a6dfb449f" />
 
 
-# Guess my number ❓
+# [Guess my number](https://github.com/YoanaBorisova08/mini_projects_/tree/main/Guess_My_Number) ❓
 
 A simple and fun **number guessing game** built with JavaScript.  
 The player tries to guess the secret number within a certain range, with feedback given after each attempt.  
@@ -42,7 +42,7 @@ The player tries to guess the secret number within a certain range, with feedbac
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/1d3fe77a-190a-421c-a117-4f12cd235d26" />
 
 
-# Pig game 🐷
+# [Pig game](https://github.com/YoanaBorisova08/mini_projects_/tree/main/Pig_game) 🐷
 
 A fun, interactive two-player dice game built with JavaScript, HTML, and CSS. Roll the dice, accumulate points, and try to beat your opponent! 🏆
 
